@@ -1,0 +1,39 @@
+body{
+    background-image: url(nature.jpg);
+    background-size: 81%;
+}
+
+p{
+    color:snow;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+
+h1{
+    color:lime;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr{
+    height: 1px;
+    background-color: gray;
+    margin: 0%;
+}
+
+a{
+    color:snow;
+    text-decoration: none;
+    text-align: right;
+}
+
+table{
+    text-align: right;
+}
+
+big{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+img{
+    border-radius: 100px;
+}
